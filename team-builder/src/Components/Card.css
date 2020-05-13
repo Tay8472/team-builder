@@ -1,0 +1,12 @@
+.bigOlCardList {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0px;
+}
+
+.bigOlCard {
+    background: lightblue;
+    padding: 20px 0px;
+    margin: 30px 0px;
+}
